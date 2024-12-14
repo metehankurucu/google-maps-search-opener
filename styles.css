@@ -1,0 +1,23 @@
+.maps-tab-button {
+  color: #5f6368;
+  text-decoration: none;
+  padding: 0 16px;
+  line-height: 16px;
+  margin: 11px 0;
+  font-family: Google Sans,arial,sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+  align-items: center;
+  display: inline-flex;
+  border-bottom: 3px solid transparent;
+}
+
+.map-button-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.maps-tab-button:hover {
+  color: gray;
+}
