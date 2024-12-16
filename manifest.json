@@ -3,7 +3,7 @@
   "name": "Google Maps Search Opener",
   "version": "1.0",
   "description": "Can't find the maps link? Use this extension to open your search in Google Maps.",
-  "permissions": ["activeTab"],
+  "permissions": [],
   "content_scripts": [
     {
       "matches": ["*://www.google.com/search*"],
